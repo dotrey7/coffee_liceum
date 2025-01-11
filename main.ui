@@ -29,12 +29,38 @@
      <rect>
       <x>12</x>
       <y>10</y>
-      <width>731</width>
+      <width>221</width>
       <height>32</height>
      </rect>
     </property>
     <property name="text">
      <string>Показать информацию</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="add">
+    <property name="geometry">
+     <rect>
+      <x>292</x>
+      <y>10</y>
+      <width>201</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Добавить </string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="edit">
+    <property name="geometry">
+     <rect>
+      <x>540</x>
+      <y>10</y>
+      <width>181</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Отредактировать</string>
     </property>
    </widget>
   </widget>

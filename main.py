@@ -111,6 +111,6 @@ class AddEditView(QMainWindow):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    wind = MyApp()
-    wind.show()
+    win = MyApp()
+    win.show()
     sys.exit(app.exec())
